@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434888887301",
+    "project_id": "lock-screen-live-notification",
+    "storage_bucket": "lock-screen-live-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434888887301:android:ef99fb81a93724aa43206c",
+        "android_client_info": {
+          "package_name": "com.example.poc_local_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVCoIjmUH7jcCoYniNcpycJkewjPzTEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
